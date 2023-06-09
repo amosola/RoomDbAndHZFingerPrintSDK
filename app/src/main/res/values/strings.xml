@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDbAndFingerPrintsDemo1</string>
+    <string name="finger">USE YOUR RIGHT HAND THUMB FOR FINGERPRINT REGISTRATION</string>
+</resources>
